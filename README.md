@@ -12,3 +12,4 @@ sudo apt-get install texlive-xetex
 
 You can see the final product in `CV.pdf`
 
+Please see the `LICENSE` file for any legal conditions of use of the code.
