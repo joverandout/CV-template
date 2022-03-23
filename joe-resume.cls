@@ -57,7 +57,7 @@ References available on request
 %	MAIN HEADING COMMAND
 %----------------------------------------------------------------------------------------
 \newcommand\mybox[3][c]{\setbox0\hbox{#2}\fbox{\makebox[\the\wd0][#1]{#3}}}
-\definecolor{color1bg}{HTML}{3D3051}
+\definecolor{color1bg}{HTML}{000080}
 \usepackage[scale=0.75]{geometry}
 \usepackage{tikz}
 \usetikzlibrary{tikzmark}
