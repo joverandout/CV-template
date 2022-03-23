@@ -1,6 +1,6 @@
 # Latex files for my personal CV
 
-Compile with `./makeFIle` which will automatically run the command `xelatex -shell-escape CV.tex` 
+Compile with `./makeFile` which will automatically run the command `xelatex -shell-escape CV.tex` 
 
 Styling is stored in `joe-resume.cls` and content is in `CV.tex` as well as `CVbulk.tex`
 
