@@ -16,7 +16,7 @@
 \setitemize{noitemsep,parsep=0pt,partopsep=0pt}
 
 %----------------------------------------------------------------------------------------
-%	COLORS
+%	COLOURS
 %----------------------------------------------------------------------------------------
 
 \usepackage[usenames,dvipsnames]{xcolor} % Required for custom colors
