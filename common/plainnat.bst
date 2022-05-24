@@ -1,18 +1,4 @@
-%% File: `plainnat.bst'
-%% A modification of `plain.bst' for use with natbib package 
-%%
-%% Copyright 1993-2007 Patrick W Daly
-%% Max-Planck-Institut f\"ur Sonnensystemforschung
-%% Max-Planck-Str. 2
-%% D-37191 Katlenburg-Lindau
-%% Germany
-%% E-mail: daly@mps.mpg.de
-%%
-%% This program can be redistributed and/or modified under the terms
-%% of the LaTeX Project Public License Distributed from CTAN
-%% archives in directory macros/latex/base/lppl.txt; either
-%% version 1 of the License, or any later version.
-%%
+
  % Version and source file information:
  % \ProvidesFile{natbst.mbs}[2007/11/26 1.93 (PWD)]
  %
