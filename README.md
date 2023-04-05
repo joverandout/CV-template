@@ -1,4 +1,4 @@
-# Cv template in Latex
+# CV template in Latex
 
 Compile with `./makeFile` which will automatically run the command `xelatex -shell-escape CV.tex` 
 
