@@ -1,0 +1,27 @@
+\usepackage[english]{babel}
+\usepackage{blindtext}
+
+\documentclass[a4paper]{joe-resume} 
+
+\begin{document}
+
+    \namesection{Your}{Name}{
+        \href{mailto:MyEmail@gmail.com}{MyEmail@gmail.com} | +44 07111111111\\ 
+        22 Street Road, Royston Vasey, RV5 2LW |
+        \urlstyle{same}\href{YOURLINKEDIN.com}{LinkedIn: YourName} | \href{https://github.com/joverandout}{GitHub: GithubUsername} \\ 
+    }
+
+    % Feel free to narrow or widen the columns below to suit your document
+
+    % LEFT HAND COLUMN:
+    \begin{minipage}[t]{0.32\textwidth} % Make the left hand column take up 1/3 width
+        \input{LeftHandColumn.tex}
+    \end{minipage}
+    % horizontal fill 
+    \hfill
+    % RIGHT HAND COLUMN:
+    \begin{minipage}[t]{0.64\textwidth} % Make the right hand column take up 2/3 width
+        \input{RightHandColumn.tex}
+    \end{minipage} % The end of the right column
+
+\end{document}
