@@ -35,7 +35,7 @@
 
 % MAIN HEADING:
 \newcommand\mybox[3][c]{\setbox0\hbox{#2}\fbox{\makebox[\the\wd0][#1]{#3}}}
-\definecolor{color1bg}{HTML}{000080}
+\definecolor{color1bg}{HTML}{545454}
 \usepackage[scale=0.75]{geometry}
 \usepackage{tikz}
 \usetikzlibrary{tikzmark}
