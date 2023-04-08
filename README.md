@@ -1,6 +1,6 @@
 # CV template in Latex
 
-Compile with `./makeFile` which will automatically run the command `xelatex -shell-escape CV.tex` 
+Compile with `./Makefile` which will automatically run the command `xelatex -shell-escape CV.tex` 
 
 Styling is stored in `joe-resume.cls` and content is in `CV.tex` as well as `LeftHandColumn.tex` and `RightHandColumn.tex`
 
@@ -25,3 +25,5 @@ xelatex -shell-escape -interaction=nonstopmode CV.tex
 ```
 
 Remove `-interaction=nonstopmode` to see any warnings prduced.
+
+If you cannot run `Makefile` by defualt on a Mac, use `chmod +x ./Makefile` to make it an executable. It can then be run with `./Makefile`
